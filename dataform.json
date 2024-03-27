@@ -2,11 +2,7 @@
   "defaultSchema": "dataform",
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
-<<<<<<< HEAD
   "defaultDatabase": "project-dataform-418417",
-=======
-  "defaultDatabase": "c4ds-gcp",
->>>>>>> refs/heads/01_single_table
   "defaultLocation": "EU"
 }
     
