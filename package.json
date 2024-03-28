@@ -1,10 +1,6 @@
 {
   "name": "demo",
   "dependencies": {
-<<<<<<< HEAD
     "@dataform/core": "2.8.3"
-=======
-    "@dataform/core": "2.4.2"
->>>>>>> refs/heads/01_single_table
   }
 }
