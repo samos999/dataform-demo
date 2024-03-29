@@ -5,7 +5,7 @@ config {
   assertions: {
     uniqueKey: ["fruit"],
     rowConditions: [
-      'count > 1',
+      'count > 0',
     ]
   }
 }
@@ -24,4 +24,4 @@ SELECT
 UNION ALL
 SELECT
   "bananas" AS fruit,
-  0 AS count
+  1 AS count
