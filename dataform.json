@@ -1,8 +1,0 @@
-{
-  "defaultSchema": "dataform",
-  "assertionSchema": "dataform_assertions",
-  "warehouse": "bigquery",
-  "defaultDatabase": "c4ds-gcp",
-  "defaultLocation": "EU"
-}
-    
