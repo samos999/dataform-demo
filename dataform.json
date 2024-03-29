@@ -4,5 +4,13 @@
   "warehouse": "bigquery",
   "defaultDatabase": "project-dataform-418417",
   "defaultLocation": "EU"
+  "releaseConfig": {
+    "triggers": [
+      {
+        "name": "Automatic compilation",
+        "action": "compile"
+      }
+    ]
+  }
 }
     
