@@ -3,7 +3,7 @@
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
   "defaultDatabase": "project-dataform-418417",
-  "defaultLocation": "EU"
+  "defaultLocation": "EU",
   "releaseConfig": {
     "triggers": [
       {
