@@ -12,7 +12,7 @@ config {
 
 SELECT
   "apples" AS fruit,
-  53 AS count
+  63 AS count
 UNION ALL
 SELECT
   "oranges" AS fruit,
